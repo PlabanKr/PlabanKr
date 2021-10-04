@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PlabanKr
+- 👋 Hi, I’m Plaban Kumar Mondal. I'm a first year cse student at vit bhopal.
 - 👀 I’m interested in Computer Graphics
 - 🌱 I’m currently learning Git and C++
 - 💞️ I’m looking to collaborate on any open source project
