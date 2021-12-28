@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m Plaban Kumar Mondal. I'm a first year cse student at vit bhopal.
 - 👀 I’m interested in Computer Graphics
-- 🌱 I’m currently learning Electron Js
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on any open source project
 - 📫 Mail me on plaban.kr.mondal00@gmail.com
 
