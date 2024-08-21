@@ -6,7 +6,7 @@
 
 Hello there :wave:
 
-I'm Plaban, a full-stack developer(MERN Stack), open-source enthusiast, and a 3rd year student in computer science and engineering at VIT Bhopal. I love to build projects.
+I'm Plaban, a full-stack developer(MERN Stack), open-source enthusiast, and a final year student in computer science and engineering at VIT Bhopal. I love to build projects.
 
 
 ### :briefcase: Skills
