@@ -19,3 +19,4 @@ I'm Plaban, a full-stack developer(MERN Stack), open-source enthusiast, and a fi
 ![](https://img.shields.io/badge/Code-Express.js-informational?style=flat-square&logo=express&logoColor=white&color=white)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat-square&logo=java&logoColor=white&color=important)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat-square&logo=C_plus_plus&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-Rust-informational?style=flat-square&logo=C_plus_plus&logoColor=white&color=blue)
