@@ -4,9 +4,9 @@
 [![Twitter Follow](https://img.shields.io/badge/Twitter-Profile-informational?label=@PlabanKrMondal&logoColor=information&color=informational&logo=twitter&style=flat-square)](https://twitter.com/PlabanKrMondal)
 [![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-Profile-informational?label=Plaban-Kumar-Mondal&logoColor=blue&color=blue&logo=linkedin&style=flat-square)](https://www.linkedin.com/in/plaban-kumar-mondal)
 
-Hello there :wave:
+Hello there :wave:, I am Plaban.
 
-Data Engineer passionate about building scalable data pipelines. Skilled in PySpark, Kafka, and Azure (Databricks, Fabric, Synapse). I also work with GenAI and graph databases like Neo4j. Formerly a MERN Stack developer, now leveraging that experience to engineer data-driven solutions.
+I am a Data Engineer at Infosys and passionate about building scalable data pipelines. Skilled in PySpark, Kafka, and Azure (Databricks, Fabric, Synapse). I also work with GenAI and graph databases like Neo4j. Formerly a MERN Stack developer, now leveraging that experience to engineer data-driven solutions.
 
 ### :briefcase: Skills
 
