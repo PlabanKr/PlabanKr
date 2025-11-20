@@ -6,8 +6,7 @@
 
 Hello there :wave:
 
-I'm Plaban, a full-stack developer(MERN Stack), open-source enthusiast, and a final year student in computer science and engineering at VIT Bhopal. I love to build projects.
-
+Data Engineer passionate about building scalable data pipelines. Skilled in PySpark, Kafka, and Azure (Databricks, Fabric, Synapse). I also work with GenAI and graph databases like Neo4j. Formerly a MERN Stack developer, now leveraging that experience to engineer data-driven solutions.
 
 ### :briefcase: Skills
 
