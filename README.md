@@ -10,12 +10,15 @@ I am a Data Engineer at Infosys and passionate about building scalable data pipe
 
 ### :briefcase: Skills
 
-![](https://img.shields.io/badge/Code-React-informational?style=flat-square&logo=react&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-Next.Js-informational?style=flat-square&logo=next.js&logoColor=white&color=black)
-![](https://img.shields.io/badge/Code-Javascript-informational?style=flat-square&logo=javascript&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat-square&logo=mongodb&logoColor=white&color=green)
-![](https://img.shields.io/badge/Code-Node-informational?style=flat-square&logo=node.js&logoColor=white&color=success)
-![](https://img.shields.io/badge/Code-Express.js-informational?style=flat-square&logo=express&logoColor=white&color=white)
+
+![](https://img.shields.io/badge/DataProcessing-PySpark-informational?style=flat-square&logo=apachespark&logoColor=white&color=orange)
+![](https://img.shields.io/badge/DistributedEventPlatform-Kafka-informational?style=flat-square&logo=apachekafka&logoColor=white&color=black)
+![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat-square&logo=mongodb&logoColor=white&color=green)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat-square&logo=java&logoColor=white&color=important)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat-square&logo=C_plus_plus&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-Rust-informational?style=flat-square&logo=C_plus_plus&logoColor=white&color=brown)
+![](https://img.shields.io/badge/Frontend-React-informational?style=flat-square&logo=react&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Frontend-Next.Js-informational?style=flat-square&logo=next.js&logoColor=white&color=black)
+![](https://img.shields.io/badge/Code-Javascript-informational?style=flat-square&logo=javascript&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Runtime-Node-informational?style=flat-square&logo=node.js&logoColor=white&color=success)
+![](https://img.shields.io/badge/Backend-Express.js-informational?style=flat-square&logo=express&logoColor=white&color=white)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat-square&logo=cplusplus&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-Rust-informational?style=flat-square&logo=rust&logoColor=white&color=brown)
